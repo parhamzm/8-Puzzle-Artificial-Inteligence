@@ -1,6 +1,3 @@
-# 8-Puzzle-Artificial-Inteligence
-This is a 8-puzzle game that the Computer solves it by using the AI algorithms!
-
 # 8-Puzzle Solver using Artificial Intelligence
 
 ## Table of Contents
@@ -138,9 +135,8 @@ Please ensure your code adheres to any existing coding style and includes approp
 ---
 ## License
 
-This project is licensed under the **[NAME OF YOUR LICENSE]**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 **==> IMPORTANT: Please replace `[NAME OF YOUR LICENSE]` above with the actual name of the license you added (e.g., MIT License, Apache License 2.0, GNU GPLv3). <==**
 
 ---
-*This README was generated based on the repository structure and common practices for such projects. For specific details, please refer to the source code.*
